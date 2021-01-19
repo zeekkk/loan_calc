@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # work with these variables
+    a = int(input())
+    b = int(input())
+    c = int(input())
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6885#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 14 Jan 2021 15:06:31 UTC
+record: -1
